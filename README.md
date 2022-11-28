@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-When viewed on a desktop, header links will direct to the associated info box. All links function correctly. Website has been deployed at a URL and a GitHub repository contains the application code.
+When viewed on a desktop, header links will direct to the associated info box. All links function correctly. Website has been deployed at a URL (https://pocketclint.github.io/horiseon/) and a GitHub repository (https://github.com/pocketclint/horiseon/) contains the application code.
 
 ## Credits
 
